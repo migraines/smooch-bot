@@ -11,6 +11,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "scripts": {
+    "start": "node server.js"
+  }
   "repository": {
     "type": "git",
     "url": "https://github.com/smooch/smooch-bot"
